@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SimPaxTcp_jar</output-path>
     <root id="archive" name="SimPaxTcp.jar">
       <element id="module-output" name="SimPaxTcp" />
-      <element id="module-test-output" name="SimPaxTcp" />
     </root>
   </artifact>
 </component>
